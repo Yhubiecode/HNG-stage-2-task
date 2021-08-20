@@ -1,0 +1,36 @@
+.bg-primary{
+    background-color: rgb(78, 78, 170)!important;
+}
+
+.bg-design {
+    background-color: rgb(233, 233, 236);
+}
+
+.tx-color {
+    color: rgb(3, 3, 83);
+}
+
+.txt-icon {
+    background-color: rgb(70, 70, 136)!important;
+}
+
+.txt-primary {
+    color: rgb(78, 78, 170);
+}
+
+.bg-blue {
+    background-color: rgb(3, 3, 83)!important;
+}
+
+.logo {
+    width: 2rem;
+    height: 2rem;
+    
+    /* margin-bottom: 50px;? */
+}
+.tx-bold{
+    font-weight: 700;
+}
+section.resume-section{
+    min-height: 20vh!important;
+}
